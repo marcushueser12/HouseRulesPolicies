@@ -23,8 +23,7 @@ We may collect standard device and usage data such as device type, operating sys
 
 
 3. Age Restrictions and Minor Protection
-House Rules is available to users of all ages for its general game content. However, access to alcohol-related content requires users to confirm they are 18 years of age or older. We use the date of birth you provide to enforce this age gate.
-We do not knowingly collect personal information from children under the age of 13. If you are a parent or guardian and believe your child has provided us with personal information, please contact us at the address below and we will delete that information promptly.
+House Rules is intended for users 18 years of age or older. We require date-of-birth verification at sign-up and do not permit accounts for users under 18. We do not knowingly collect information from anyone under 18. If we discover an account belongs to a user under 18, the account and associated data will be deleted.
 
 4. How We Use Your Information
 We use the information we collect to:
